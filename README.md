@@ -14,6 +14,13 @@
 
 ---
 
+<h2 align="center">🔥 TryHackMe Badge 🔥</h2  >
+<div align="center">
+  <iframe width="512" src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4692563" style="border:none;"></iframe>
+</div>
+
+---
+
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" height="25"/>
@@ -24,7 +31,7 @@
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <div align="center">
-  <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nam091&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+  <img width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nam091&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
   <img width="434" src="https://github-readme-stats.vercel.app/api?username=nam091&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
 </div>
 
