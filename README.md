@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nam091&show_icons=true&theme=tokyonight&border_radius=10" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nam091&show_icons=true&theme=tokyonight&border_radius=10" height="180" />
   <img src="https://streak-stats.demolab.com?user=nam091&theme=tokyonight&border_radius=10" height="180" />
 </p>
 
