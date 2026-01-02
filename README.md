@@ -59,10 +59,6 @@
   <a href="mailto:knowme3141@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
-  &nbsp;
-  <a href="https://www.facebook.com/PrCt22/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Facebook&color=36BCF7&style=for-the-badge&logo=facebook" height="35" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=nam091&color=36BCF7&style=flat-square&label=VISITORS" align="right" />
 </p>
 
