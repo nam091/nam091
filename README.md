@@ -57,10 +57,10 @@
 ### 🤝 Let's Connect
 <p align="left">
   <a href="mailto:knowme3141@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
   <a href="https://www.facebook.com/PrCt22/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook&theme=dark" width="50" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=nam091&color=36BCF7&style=flat-square&label=VISITORS" align="right" />
 </p>
