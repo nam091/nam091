@@ -40,7 +40,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nam091&show_icons=true&theme=tokyonight&border_radius=10" height="180" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=nam091&theme=tokyonight&border_radius=10" height="180" />
 </p>
 
 ---
