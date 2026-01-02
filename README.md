@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=36BCF7&height=200&section=header&text=Lã%20Phương%20Nam&fontSize=70&fontAlignY=40&desc=Cybersecurity%20|%20Fullstack%20Developer&descAlignY=60&descSize=25" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b27&height=200&section=header&text=Lã%20Phương%20Nam&fontSize=70&fontAlignY=40&fontColor=36BCF7&desc=Cybersecurity%20Enthusiast%20|%20Automation%20Explorer&descAlignY=65&descSize=25&descColor=a9b1d6" />
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Fullstack+Developer;Cyber+Security+Enthusiast;Automation+Explorer&center=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Cyber+Security+Enthusiast;Automation+Explorer&center=true" alt="Typing SVG" />
 </p>
 
 ---
