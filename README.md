@@ -1,50 +1,68 @@
-# 💫 Hi there, I'm Nam (nam091) 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Fullstack+Developer;Cyber+Security+Enthusiast;Automation+Explorer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=200&section=header&text=Hi%20I'm%20Nam%20👋&fontSize=50&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Fullstack+Developer;Cyber+Security+Enthusiast;Automation+Explorer&center=true" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 3rd-year student at **KMA** (Học viện Kỹ thuật Mật mã)
-- 🌱 I’m currently focusing on **Cybersecurity** and **AI Automation**
-- ⚡ Fun fact: "Learning new everyday, not the copycat of yesterday!"
+- 🔭 **Education:** 3rd-year student at **KMA** (Học viện Kỹ thuật Mật mã)
+- 🎯 **Focus:** Cybersecurity, AI Automation, and Pentesting
+- ⚡ **Philosophy:** "Learning new everyday, not the copycat of yesterday!"
 
-### 📈 Activity Graph
+---
+
+### 🛠️ Tech Stack & Skills
+<p align="left">
+  <b>Languages & Core:</b><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp&theme=dark" />
+</p>
+<p align="left">
+  <b>Tools & Backend:</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,express,mongodb,docker,git&theme=dark" />
+</p>
+<p align="left">
+  <b>Security & Dev Environment:</b><br>
+  <img src="https://skillicons.dev/icons?i=linux,vscode,postman,powershell,github,githubactions&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nam091&theme=tokyonight&area=true&hide_border=true&border_radius=10" width="100%" />
 </p>
 
-### 🛡 TryHackMe Badge
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Neam2204.png" alt="TryHackMe Badge" />
-</p>
-
-### 🛠 Skills & Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,nodejs,react,docker,linux,git,github,vscode,postman&theme=dark" />
-</p>
-
-### 📜 Daily Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-### 🤝 Connect with me
-<p align="left">
-  <a href="mailto:knowme3141@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" />
-  </a>
-  <a href="https://www.facebook.com/PrCt22/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook&theme=dark" width="45" />
-  </a>
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=nam091&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nam091&show_icons=true&theme=tokyonight&border_radius=10" height="180" />
+  <img src="https://streak-stats.demolab.com?user=nam091&theme=tokyonight&border_radius=10" height="180" />
 </p>
 
 ---
-<p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+
+### 🛡️ Certifications & Badges
+<p align="center">
+  <a href="https://tryhackme.com/p/nam091" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Neam2204.png" alt="TryHackMe Badge" />
+  </a>
+</p>
+
+---
+
+### 🤝 Let's Connect
+<p align="left">
+  <a href="mailto:knowme3141@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" />
+  </a>
+  <a href="https://www.facebook.com/PrCt22/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook&theme=dark" width="50" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=nam091&color=36BCF7&style=flat-square&label=VISITORS" align="right" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
 </p>
