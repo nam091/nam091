@@ -57,7 +57,7 @@
 ### 🤝 Let's Connect
 <p align="left">
   <a href="mailto:knowme3141@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=nam091&color=36BCF7&style=flat-square&label=VISITORS" align="right" />
 </p>
