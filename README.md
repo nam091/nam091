@@ -12,7 +12,7 @@
 
 ### 🛡 TryHackMe Badge
 <p align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4692563" style="border:none; width:100%; height:200px;"></iframe>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Neam2204.png" alt="TryHackMe Badge" />
 </p>
 
 ### 🛠 Skills & Tools
