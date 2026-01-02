@@ -20,19 +20,14 @@
   <img src="https://skillicons.dev/icons?i=js,ts,py,java,nodejs,react,docker,linux,git,github,vscode,postman&theme=dark" />
 </p>
 
-### 📊 Performance Metrics
+### 📊 GitHub Metrics (Dynamic)
+<p align="center">
+  <img src="https://github.com/nam091/nam091/blob/master/github-metrics.svg" width="100%" alt="Metrics" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nam091&show_icons=true&theme=tokyonight&border_radius=10" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nam091&layout=compact&theme=tokyonight&border_radius=10" height="190" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nam091&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-</p>
-
-### 🌌 Isometric Contributions
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nam091&theme=tokyonight" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=nam091&theme=tokyonight&border_radius=10" height="190" />
 </p>
 
 ### 🤝 Connect with me
