@@ -15,24 +15,24 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/Neam2204.png" alt="TryHackMe Badge" />
 </p>
 
-### 🛠 Skills & Tools
+### 🛠 Skills & Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_CLI-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,nodejs,react,docker,linux,git,github,vscode,postman&theme=dark" />
 </p>
 
-### 📊 GitHub Stats
+### 📊 Performance Metrics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nam091&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nam091&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nam091&show_icons=true&theme=tokyonight&border_radius=10" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nam091&layout=compact&theme=tokyonight&border_radius=10" height="190" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nam091&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=nam091&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+</p>
+
+### 🌌 Isometric Contributions
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nam091&theme=tokyonight" width="100%" />
 </p>
 
 ### 🤝 Connect with me
@@ -43,12 +43,9 @@
   <a href="https://www.facebook.com/PrCt22/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://x.com/itsMe12696399" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
 </p>
 
 ---
 <p align="center"> 
-  <i>"Automate the boring stuff, focus on the creative mind."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
