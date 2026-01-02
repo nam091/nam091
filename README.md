@@ -12,9 +12,7 @@
 
 ### 🛡 TryHackMe Badge
 <p align="center">
-  <a href="https://tryhackme.com/p/nam091" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/nam091.png" alt="TryHackMe Badge" />
-  </a>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4692563" style="border:none; width:100%; height:200px;"></iframe>
 </p>
 
 ### 🛠 Skills & Tools
