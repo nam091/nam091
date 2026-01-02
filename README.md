@@ -10,9 +10,9 @@
 - 🌱 I’m currently focusing on **Cybersecurity** and **AI Automation**
 - ⚡ Fun fact: "Learning new everyday, not the copycat of yesterday!"
 
-### 🐍 Contribution Snake
+### 📈 Activity Graph
 <p align="center">
-  <img src="https://github.com/nam091/nam091/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nam091&theme=tokyonight&area=true&hide_border=true&border_radius=10" width="100%" />
 </p>
 
 ### 🛡 TryHackMe Badge
@@ -25,10 +25,9 @@
   <img src="https://skillicons.dev/icons?i=js,ts,py,java,nodejs,react,docker,linux,git,github,vscode,postman&theme=dark" />
 </p>
 
-### 📊 Performance Metrics
+### 📜 Daily Quote
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nam091&show_icons=true&theme=tokyonight&border_radius=10" height="190" />
-  <img src="https://streak-stats.demolab.com?user=nam091&theme=tokyonight&border_radius=10" height="190" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ### 🤝 Connect with me
@@ -39,6 +38,10 @@
   <a href="https://www.facebook.com/PrCt22/" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook&theme=dark" width="50" />
   </a>
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=nam091&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
 
 ---
