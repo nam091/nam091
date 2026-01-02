@@ -9,7 +9,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 **Education:** 3rd-year student at **KMA** (Học viện Kỹ thuật Mật mã)
+- 🔭 **Education:** 4th-year student at **KMA** (Học viện Kỹ thuật Mật mã)
 - 🎯 **Focus:** Cybersecurity, AI Automation, and Pentesting
 - ⚡ **Philosophy:** "Learning new everyday, not the copycat of yesterday!"
 
