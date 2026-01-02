@@ -40,7 +40,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nam091&show_icons=true&theme=tokyonight&border_radius=10" height="180" />
-  <img src="https://streak-stats.demolab.com?user=nam091&theme=tokyonight&border_radius=10" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nam091&theme=tokyonight&border_radius=10" height="180" />
 </p>
 
 ---
@@ -57,10 +57,11 @@
 ### 🤝 Let's Connect
 <p align="left">
   <a href="mailto:knowme3141@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.facebook.com/PrCt22/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" />
+    <img src="https://skillicons.dev/icons?i=facebook" height="40" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=nam091&color=36BCF7&style=flat-square&label=VISITORS" align="right" />
 </p>
