@@ -10,6 +10,11 @@
 - 🌱 I’m currently focusing on **Cybersecurity** and **AI Automation**
 - ⚡ Fun fact: "Learning new everyday, not the copycat of yesterday!"
 
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/nam091/nam091/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 ### 🛡 TryHackMe Badge
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Neam2204.png" alt="TryHackMe Badge" />
@@ -20,11 +25,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,py,java,nodejs,react,docker,linux,git,github,vscode,postman&theme=dark" />
 </p>
 
-### 📊 GitHub Metrics (Dynamic)
-<p align="center">
-  <img src="https://github.com/nam091/nam091/blob/master/github-metrics.svg" width="100%" alt="Metrics" />
-</p>
-
+### 📊 Performance Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nam091&show_icons=true&theme=tokyonight&border_radius=10" height="190" />
   <img src="https://streak-stats.demolab.com?user=nam091&theme=tokyonight&border_radius=10" height="190" />
@@ -33,10 +34,10 @@
 ### 🤝 Connect with me
 <p align="left">
   <a href="mailto:knowme3141@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" />
   </a>
   <a href="https://www.facebook.com/PrCt22/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=facebook&theme=dark" width="50" />
   </a>
 </p>
 
