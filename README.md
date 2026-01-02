@@ -12,7 +12,9 @@
 
 ### 🛡 TryHackMe Badge
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/nam091.png" alt="TryHackMe Badge" />
+  <a href="https://tryhackme.com/p/nam091" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/nam091.png" alt="TryHackMe Badge" />
+  </a>
 </p>
 
 ### 🛠 Skills & Tools
@@ -32,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nam091&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=nam091&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ### 🤝 Connect with me
