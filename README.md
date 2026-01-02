@@ -33,10 +33,10 @@
 ### 🤝 Connect with me
 <p align="left">
   <a href="mailto:knowme3141@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&border_radius=10" height="35" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" />
   </a>
   <a href="https://www.facebook.com/PrCt22/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&border_radius=10" height="35" />
+    <img src="https://skillicons.dev/icons?i=facebook&theme=dark" width="45" />
   </a>
 </p>
 
