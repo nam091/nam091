@@ -33,13 +33,13 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nam091&theme=tokyonight&area=true&hide_border=true&border_radius=10" width="100%" />
+  <img src="https://github.com/nam091/nam091/blob/main/github-metrics.svg" width="100%" alt="GitHub Metrics (Includes Private Repos)" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nam091&show_icons=true&theme=tokyonight&border_radius=10" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nam091&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" height="180" />
 </p>
 
 ---
